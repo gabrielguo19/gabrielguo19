@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabriel 👋</h1>
+<h1 align="center">Hi, I'm Gabe 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Student-Northeastern%20University-blue?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-green?style=flat-square" />
