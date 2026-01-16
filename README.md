@@ -27,7 +27,7 @@
 
 
 <p align="left">
-  <img src="https://leetcode-stats-card.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
+<img src="https://leetcode-stats-card.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
   <br/>
   <img src="https://leetcode-status.vercel.app/api/graph/gguo2005?theme=neon" alt="LeetCode Graph" />
 </p>
