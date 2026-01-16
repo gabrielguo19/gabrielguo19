@@ -22,20 +22,19 @@
 | **Tools** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
-
 ### 📊 LeetCode Profile
 
 
 <p align="left">
-<img src="https://leetcode-stats-card.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-net.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
   <br/>
-  <img src="https://leetcode-status.vercel.app/api/graph/gguo2005?theme=neon" alt="LeetCode Graph" />
+  <img src="https://leetcode-status-ashen.vercel.app/api/graph/gguo2005?theme=neon" alt="LeetCode Submission Graph" />
 </p>
 
 ---
 
 ### 📈 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gguo2005&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguo2005&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gguo2005&show_icons=true&theme=radical&hide_border=false" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguo2005&layout=compact&theme=radical&hide_border=false" width="300" />
 </p>
