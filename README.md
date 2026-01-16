@@ -29,17 +29,3 @@
 **Profile:** [leetcode.com/gguo2005](https://leetcode.com/gguo2005)
 
 ---
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielguo19&show_icons=true&theme=radical&hide_border=true" alt="Gabriel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielguo19&theme=radical&hide_border=true" alt="Gabriel's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielguo19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
