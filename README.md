@@ -24,17 +24,22 @@
 ---
 ### 📊 LeetCode Profile
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/gguo2005?theme=dark&font=source_code_pro&ext=heatmap)
 
-<p align="left">
-  <img src="https://leetcode-stats-net.vercel.app/api?username=gguo2005&theme=dark" alt="LeetCode Stats" />
-  <br/>
-  <img src="https://leetcode-status-ashen.vercel.app/api/graph/gguo2005?theme=neon" alt="LeetCode Submission Graph" />
-</p>
+**Profile:** [leetcode.com/gguo2005](https://leetcode.com/gguo2005)
 
 ---
 
 ### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gguo2005&show_icons=true&theme=radical&hide_border=false" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguo2005&layout=compact&theme=radical&hide_border=false" width="300" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielguo19&show_icons=true&theme=radical&hide_border=true" alt="Gabriel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielguo19&theme=radical&hide_border=true" alt="Gabriel's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielguo19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
