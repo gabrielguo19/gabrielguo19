@@ -26,6 +26,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gguo2005?theme=dark&font=source_code_pro&ext=heatmap)
 
-**Profile:** [leetcode.com/gguo2005](https://leetcode.com/gguo2005)
+[leetcode.com/gguo2005](https://leetcode.com/gguo2005)
 
 ---
