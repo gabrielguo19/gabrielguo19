@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 - 🔭 **Current Project:** Building an NBA data analytics engine for prop analysis using Python.
 - 🌱 **Learning:** Currently diving deep into **Django** and **FastAPI**
-- ⚡ **Interests:** Poker analytics, NBA betting markets, and prediction market algorithmic efficiency.
+- ⚡ **Interests:** Poker pre flop analytics, NBA betting markets, and prediction market algorithmic efficiency.
 - 📫 **Contact:** [guo.ga@northeastern.edu](mailto:guo.ga@northeastern.edu)
 
 ---
